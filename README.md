@@ -9,7 +9,7 @@
 
 
 - 🏹 My skills: C🍭, Swift🐦, Shell🛡
-- 🤩 I'm going to be an iOS developer
+- 🤩 I'm going to be an iOS developer!💻
 
 
 - 💬 My 42seoul Intra ID: llim
