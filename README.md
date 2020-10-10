@@ -13,7 +13,7 @@
 
 
 - 💬 My 42seoul Intra ID: llim
-- 📫 How to reach me: llim@student.42seoul.kr       ||         <a href="https://instagram.com/alpox.dev">
+- 📫 How to reach me: llim@student.42seoul.kr        ||          <a href="https://instagram.com/alpox.dev">
     <img 
         src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/l.lina__"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
