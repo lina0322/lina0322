@@ -8,4 +8,4 @@
 - 📫 How to reach me: llim@student.42seoul.kr
 - 🏹 My skills: C, Swift
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lina0322)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lina0322&show_icons=true&theme=dracula)
