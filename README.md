@@ -16,5 +16,6 @@
 - 📫 How to reach me: llim@student.42seoul.kr
 - <a href="https://instagram.com/l.lina__">
     <img 
-        src="http://img.shields.io/badge/-Instagram-white?style=flat&logo=Instagram&link=https://instagram.com/l.lina__"
-        style="height : auto; margin-left : 10px; margil.lina__
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/l.lina__"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
