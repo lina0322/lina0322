@@ -9,5 +9,8 @@
 - 💬 My 42seoul Intra ID: llim
 - 📫 How to reach me: llim@student.42seoul.kr
 - 🏹 My skills: C, Swift
-
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lina0322&show_icons=true&theme=dracula)
+<a href="https://instagram.com/alpox.dev">
+    <img 
+        src="http://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=Instagram&link=https://instagram.com/l.lina__"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
