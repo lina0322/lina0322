@@ -1,11 +1,7 @@
 ### Hi there 👋
 
 🥳Thank you for visiting my github!🥳
- <div align=center>
-	
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flina0322)](https://hits.seeyoufarm.com) 
-	
-  </div>
 
 - 🌱 I’m currently learning a lot in 42 Seoul (2020-05-25 ~ current)
 - 🤦🏻‍♀️ I'was learning iOS in Boostcamp (2020-07-27 ~ 2020-08-21, fail..😭)
