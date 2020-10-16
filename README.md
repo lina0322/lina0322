@@ -8,7 +8,7 @@
 - 🤦🏻‍♀️ I'was learning iOS in Boostcamp (2020-07-27 ~ 2020-08-21, but fail..😭)
 
 
-- 🏹 My skills: C, Swift, Shell
+- 🏹 My skills: C, Swift
 - 🤩 I'm going to be an iOS developer!💻
 
 
