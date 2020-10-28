@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning a lot in 42 Seoul. (2020-05-25 ~ current)
 - 🤦🏻‍♀️ I'was learning iOS in Boostcamp. (2020-07-27 ~ 2020-08-21, but fail..😭)
-- 🌞 Also I recently started studying ios in Yagom iOS strater camp. (2020-11-02 ~ 2021-04-30 - expected)  
+- 🌞 Also I recently started studying ios in Yagom iOS strater camp. (2020-11-02 ~ 2021-04-30, expected)  
 
 - 🏹 My skills: C, Swift
 - 🤩 I'm going to be an iOS developer!💻
