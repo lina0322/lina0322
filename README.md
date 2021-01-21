@@ -24,6 +24,5 @@
 
 [![llim's 42 stats](https://badge42.herokuapp.com/api/stats/llim?privacyEmail=true)](https://github.com/JaeSeoKim/badge42)
 
-ft_server [![llim's 42Project Score](https://badge42.herokuapp.com/api/project/llim/ft_server)](https://github.com/JaeSeoKim/badge42)
-
-miniRT [![llim's 42Project Score](https://badge42.herokuapp.com/api/project/llim/miniRT)](https://github.com/JaeSeoKim/badge42)
+🥳 Recently completed : ft_server [![llim's 42Project Score](https://badge42.herokuapp.com/api/project/llim/ft_server)](https://github.com/JaeSeoKim/badge42)</br>
+🤯 Currently in progress : miniRT [![llim's 42Project Score](https://badge42.herokuapp.com/api/project/llim/miniRT)](https://github.com/JaeSeoKim/badge42)
