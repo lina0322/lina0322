@@ -20,16 +20,9 @@
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 
+</br>
 
-
-[![llim's 42 stats](https://badge42.herokuapp.com/api/stats/llim?privacyEmail=true)]
-
-😎 Recently completed : </br>
-    ft_server [![llim's 42Project Score](https://badge42.herokuapp.com/api/project/llim/ft_server)]</br>
-    miniRT [![llim's 42Project Score](https://badge42.herokuapp.com/api/project/llim/miniRT)]
+#### My 42Seoul stats
+![llim's 42 stats](https://badge42.herokuapp.com/api/stats/llim?privacyEmail=true)
     
-🤯 Currently in progress : </br>
-    libasm [![llim's 42Project Score](https://badge42.herokuapp.com/api/project/llim/libasm)]</br>
-    ft_service [![llim's 42Project Score](https://badge42.herokuapp.com/api/project/llim/ft_services)]</br>
-    minishell [![llim's 42Project Score](https://badge42.herokuapp.com/api/project/llim/minishell)]</br>
     
