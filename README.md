@@ -14,11 +14,16 @@
 
 - 💬 My 42seoul Intra ID: llim
 - 📫 How to reach me: llim@student.42seoul.kr
-- <a href="https://instagram.com/l.lina__">
+- <a href="https://velog.io/@lina0322">
+    <img 
+        src="https://img.shields.io/badge/-Velog-black?style=flat&logo=vimeo&logoColor=green"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+- //<a href="https://instagram.com/l.lina__">
     <img 
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/l.lina__"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+//</a>
 
 </br>
 
