@@ -1,5 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flina0322)](https://hits.seeyoufarm.com) 
 
+## LLIM's GITHUB
+
 ### Hi there 👋
 
 🥳Thank you for visiting my github!🥳
@@ -21,8 +23,3 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/l.lina__"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </br>
-
-#### My 42Seoul stats
-![llim's 42 stats](https://badge42.herokuapp.com/api/stats/llim?privacyEmail=true)
-    
-    
