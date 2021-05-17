@@ -20,15 +20,21 @@
 
 - 📫 e-mail: llim@student.42seoul.kr
 
-- 🖋 blog: <img 
+- 📃 resume: <a href="https://www.notion.so/1b9b65f88b7345268c04103d3d1605c8">
+<img 
         src="https://img.shields.io/badge/-notion_resume-black?style=flat&logo=notion&logoColor=white"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-        
-- 📃 resume: <img 
+</a>
+
+- 🖋 blog: <a href="https://velog.io/@lina0322">
+<img 
         src="https://img.shields.io/badge/-velog_posting-black?style=flat&logo=vimeo&logoColor=green"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
 
-- ✡️ instagram: <img 
-        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram&link=https://instagram.com/l.lina__"
+
+- ✡️ instagram: <a href="https://www.instagram.com/l.lina__">
+<img 
+        src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</br>
+</a>
