@@ -12,20 +12,25 @@
 
 </br>
 
-📍 I work at WEVERSE COMPANY. (2021-08 ~ )
-- 📫 e-mail: lina@weversecompany.com
+📍 I work at [WEVERSE COMPANY.](https://weverse.co) (2021-08 ~ )
 
 </br>
 
-🌱 I started studying in 42 Seoul. (2020-05 ~ 2021-06, 13m)
+🖥 I'm currently studying with a [mash-up.](https://www.mash-up.it/) (2021-07 ~ )
+
+</br>
+
+⛺️ I studied iOS in [Yagom iOS strater camp.](https://www.yagom-academy.kr) (2020-11 ~ 2021-04, 6m)  
+- 🐻 I'm one of yagom 1st suporters!
+
+</br>
+
+🌱 I started studying in [42 Seoul.](https://42seoul.kr/seoul42/main/view) (2020-05 ~ 2021-06, 13m)
 - 💬 Intra ID: llim
 
 </br>
 
-⛺️ I studied iOS in Yagom iOS strater camp. (2020-11 ~ 2021-04, 6m)  
-- 🐻 I'm one of yagom 1st suporters!
 
-</br>
 
 
 👇👇👇 For more information about me 👇👇👇
@@ -48,3 +53,7 @@
         src="http://img.shields.io/badge/-Instagram-black?style=flat&logo=Instagram"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+📫 e-mail: lina@weversecompany.com
+
+
