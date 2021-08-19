@@ -21,7 +21,8 @@
 </br>
 
 ⛺️ I studied iOS in [Yagom iOS strater camp.](https://www.yagom-academy.kr) (2020-11 ~ 2021-04, 6m)  
-- 🐻 I'm one of yagom 1st suporters!
+- 🐻 I'm one of yagom 1st suporters! (2021-05 ~ 2021-08)
+- 🧸 And also reviewer! (2021-08 ~ )
 
 </br>
 
